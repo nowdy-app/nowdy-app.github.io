@@ -1,0 +1,15 @@
+.avatar {
+    width: 377px;
+    height: 445px;
+    background-image: url('img/avatar.png');
+    background-size: 377px 445px;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: bold;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 1.3em;
+}
+
+.appbutton {
+    max-height: 50px;
+}
