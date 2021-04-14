@@ -1,13 +1,14 @@
 .avatar {
     width: 377px;
     height: 445px;
+    background-position: center center;
     background-image: url('img/avatar.png');
-    background-size: 377px 445px;
+    background-size: 320px;
     background-repeat: no-repeat;
     color: #496bad;
     font-weight: bold;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 
 .appbutton {
